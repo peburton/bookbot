@@ -3,4 +3,5 @@ def main():
 		file_contents = f.read()
 		print(file_contents)
 
-main()
+if __name__ == "__main__":
+    main()
